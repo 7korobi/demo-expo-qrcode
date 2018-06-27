@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the code screen 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    Object {
+      "paddingTop": 30,
+    }
+  }
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "margin": 20,
+        }
+      }
+    >
+      <View>
+        <RNSVGSvgView
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+              },
+              undefined,
+              false,
+              Object {
+                "flex": 0,
+                "height": 300,
+                "width": 300,
+              },
+            ]
+          }
+        >
+          <RNSVGRect
+            fill={
+              Array [
+                0,
+                1,
+                1,
+                1,
+                1,
+              ]
+            }
+            fillOpacity={1}
+            fillRule={1}
+            height="300"
+            matrix={
+              Array [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+              ]
+            }
+            opacity={1}
+            originX={0}
+            originY={0}
+            propList={
+              Array [
+                "fill",
+              ]
+            }
+            rotation={0}
+            rx="0"
+            ry="0"
+            scaleX={1}
+            scaleY={1}
+            skewX={0}
+            skewY={0}
+            stroke={null}
+            strokeDasharray={null}
+            strokeDashoffset={null}
+            strokeLinecap={0}
+            strokeLinejoin={0}
+            strokeMiterlimit={4}
+            strokeOpacity={1}
+            strokeWidth="1"
+            width="300"
+            x="0"
+            y="0"
+          />
+          <RNSVGPath
+            d="M0 6 L84 6 M96 6 L120 6 M168 6 L180 6 M192 6 L204 6 M216 6 L300 6 M0 18 L12 18 M72 18 L84 18 M96 18 L108 18 M120 18 L144 18 M192 18 L204 18 M216 18 L228 18 M288 18 L300 18 M0 30 L12 30 M24 30 L60 30 M72 30 L84 30 M96 30 L108 30 M120 30 L132 30 M156 30 L168 30 M180 30 L192 30 M216 30 L228 30 M240 30 L276 30 M288 30 L300 30 M0 42 L12 42 M24 42 L60 42 M72 42 L84 42 M108 42 L120 42 M132 42 L168 42 M192 42 L204 42 M216 42 L228 42 M240 42 L276 42 M288 42 L300 42 M0 54 L12 54 M24 54 L60 54 M72 54 L84 54 M96 54 L108 54 M144 54 L156 54 M168 54 L180 54 M192 54 L204 54 M216 54 L228 54 M240 54 L276 54 M288 54 L300 54 M0 66 L12 66 M72 66 L84 66 M108 66 L120 66 M156 66 L168 66 M192 66 L204 66 M216 66 L228 66 M288 66 L300 66 M0 78 L84 78 M96 78 L108 78 M120 78 L132 78 M144 78 L156 78 M168 78 L180 78 M192 78 L204 78 M216 78 L300 78 M156 90 L168 90 M192 90 L204 90 M0 102 L12 102 M36 102 L108 102 M120 102 L132 102 M144 102 L156 102 M168 102 L180 102 M192 102 L216 102 M240 102 L252 102 M264 102 L300 102 M0 114 L12 114 M24 114 L48 114 M96 114 L120 114 M144 114 L192 114 M204 114 L216 114 M228 114 L288 114 M24 126 L48 126 M72 126 L84 126 M120 126 L132 126 M144 126 L168 126 M180 126 L204 126 M216 126 L240 126 M252 126 L264 126 M288 126 L300 126 M0 138 L12 138 M36 138 L48 138 M60 138 L72 138 M84 138 L108 138 M120 138 L144 138 M168 138 L192 138 M228 138 L240 138 M252 138 L300 138 M36 150 L48 150 M72 150 L84 150 M108 150 L120 150 M132 150 L144 150 M180 150 L228 150 M288 150 L300 150 M0 162 L36 162 M96 162 L108 162 M144 162 L156 162 M168 162 L204 162 M240 162 L252 162 M276 162 L288 162 M0 174 L60 174 M72 174 L84 174 M96 174 L120 174 M156 174 L192 174 M204 174 L216 174 M240 174 L300 174 M0 186 L12 186 M36 186 L48 186 M96 186 L132 186 M144 186 L156 186 M180 186 L192 186 M228 186 L252 186 M264 186 L276 186 M288 186 L300 186 M0 198 L12 198 M24 198 L48 198 M60 198 L84 198 M96 198 L108 198 M120 198 L180 198 M192 198 L252 198 M264 198 L288 198 M96 210 L108 210 M120 210 L144 210 M156 210 L180 210 M192 210 L204 210 M240 210 L252 210 M276 210 L288 210 M0 222 L84 222 M96 222 L132 222 M144 222 L156 222 M192 222 L204 222 M216 222 L228 222 M240 222 L264 222 M288 222 L300 222 M0 234 L12 234 M72 234 L84 234 M96 234 L108 234 M120 234 L144 234 M156 234 L168 234 M180 234 L204 234 M240 234 L252 234 M0 246 L12 246 M24 246 L60 246 M72 246 L84 246 M96 246 L120 246 M132 246 L144 246 M156 246 L168 246 M180 246 L264 246 M276 246 L300 246 M0 258 L12 258 M24 258 L60 258 M72 258 L84 258 M96 258 L108 258 M120 258 L132 258 M144 258 L192 258 M204 258 L240 258 M252 258 L264 258 M276 258 L300 258 M0 270 L12 270 M24 270 L60 270 M72 270 L84 270 M120 270 L144 270 M156 270 L168 270 M192 270 L216 270 M228 270 L252 270 M264 270 L300 270 M0 282 L12 282 M72 282 L84 282 M108 282 L120 282 M132 282 L168 282 M216 282 L252 282 M264 282 L300 282 M0 294 L84 294 M96 294 L168 294 M192 294 L204 294 M252 294 L264 294 M288 294 L300 294 "
+            fill={
+              Array [
+                0,
+                0,
+                0,
+                0,
+                1,
+              ]
+            }
+            fillOpacity={1}
+            fillRule={1}
+            matrix={
+              Array [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+              ]
+            }
+            opacity={1}
+            originX={0}
+            originY={0}
+            propList={
+              Array [
+                "stroke",
+                "strokeWidth",
+              ]
+            }
+            rotation={0}
+            scaleX={1}
+            scaleY={1}
+            skewX={0}
+            skewY={0}
+            stroke={
+              Array [
+                0,
+                0,
+                0,
+                0,
+                1,
+              ]
+            }
+            strokeDasharray={null}
+            strokeDashoffset={null}
+            strokeLinecap={0}
+            strokeLinejoin={0}
+            strokeMiterlimit={4}
+            strokeOpacity={1}
+            strokeWidth="12"
+            x={0}
+            y={0}
+          />
+        </RNSVGSvgView>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
