@@ -6,9 +6,10 @@ import TabBarIcon from '../components/TabBarIcon';
 import HomeScreen from '../screens/HomeScreen';
 import LinksScreen from '../screens/LinksScreen';
 import SettingsScreen from '../screens/SettingsScreen';
+import CodeScreen from '../screens/CodeScreen.js';
 
 const HomeStack = createStackNavigator({
-  Home: HomeScreen,
+  Home: CodeScreen,
 });
 
 HomeStack.navigationOptions = {
